@@ -6,7 +6,7 @@ Text Editor for Windows:
 2. Modify its content
 3. Save the file
 
-The project was creating during a 2024 Rust Workshop, for learning
+The project was created during a 2024 Rust Workshop, for learning
 Tauri framework. The implementation idea consists in creating a
 text box (textarea in HTML) that is associated with a variable modification
 using states (the content as a string). When clicking on load button, the
