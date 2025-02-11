@@ -24,4 +24,5 @@ will be again chosen by the user via the file system window UI (again
 dialog), and the content is just written in that file using fs::write.
 
 ## Recommended IDE Setup
+
 path: C:\Users\User\Desktop\Tauri_app\rustpad
